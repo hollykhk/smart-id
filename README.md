@@ -1,13 +1,12 @@
-# NetID
+## NetID
 
-# background
-This is the C# final project for the C# workshop at my school. 
+# Background
+This is the sole winning C# project for the C# workshop final challenge at my school. Submissions only available to workshop attendees. I was competed against estimately 30 attendees.
 
-# enduration
+# Enduration
 C# workshop took place every Saturday afternoon for 5 hours. 
 
-# challenge
-I used Java more than C#, so I did think in terms of java when I want to read a line.
+# Challenge
+I used Java more than C#, so I did think in terms of Java when I programmed.
 
-# future
-I programmed using the vim editor on the command line. Need an user friendly and good looking GUI.
+
