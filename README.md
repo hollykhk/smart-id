@@ -1,7 +1,7 @@
 ## NetID
 
 # Background
-This is the sole winning C# project for the C# workshop final challenge at my school. Submissions only available to workshop attendees. I was competed against estimately 30 attendees.
+This is the sole winning C# project for the C# workshop final challenge at my school. Submissions only available to workshop attendees. I was competed against estimately 30 attendees. The program was praise by instructors for "submitting an amazing and functional entry". 
 
 # Enduration
 C# workshop took place every Saturday afternoon for 5 hours. 
